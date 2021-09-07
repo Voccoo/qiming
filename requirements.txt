@@ -1,0 +1,7 @@
+pypinyin
+loguru
+ngender
+flask
+collections
+opencc
+sxtwl
